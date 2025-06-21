@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JJKiwovele/JJKiwovele/main/GRC-Github%20Banner.png" alt="GRC GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/JJKiwovele/JJKiwovele/main/Banner.png" alt="GRC GitHub Banner" width="100%">
 </p>
 
 # <a href="https://www.linkedin.com/in/jjkiwovele/">JJ Kiwovele</a>'s IT and Cybersecurity Project Portfolio 🔐
