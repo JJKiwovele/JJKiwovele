@@ -4,8 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🛡️ Governance, Risk & Compliance (GRC)
 
-- **[My GRC Portfolio Repo](https://github.com/JJKiwovele/grc-portfolio-jjkiwovele)** – ISO/NIST compliance docs, policies, and risk tools including risk registers, SOPs, and church cybersecurity templates.
-
+- **[My GRC Portfolio Repo](https://github.com/JJKiwovele/grc-portfolio-jjkiwovele)** – Hands-on labs demonstrating HIPAA-aligned controls in AWS for PHI: encryption, least privilege, audit trails, detection, and response.
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JJKiwovele/vulnerability-management-program)**
